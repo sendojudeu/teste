@@ -163,4 +163,12 @@ body{
     .apresentacao__imagem{
         width: 60%;
     }
+
+    .rodape {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+      }
+
+      
 }
